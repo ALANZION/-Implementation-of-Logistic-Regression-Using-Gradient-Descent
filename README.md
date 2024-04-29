@@ -101,10 +101,11 @@ print(y_prednew)
 
 ## Output:
 ![logistic regression using gradient descent](sam.png)
-![OUTPUT](<Screenshot 2024-04-23 084413.png>)
-![OUTPUT](<Screenshot 2024-04-23 084428.png>)
-![OUTPUT](<Screenshot 2024-04-23 084444.png>)
-![OUTPUT](<Screenshot 2024-04-23 091654-1.png>)
+![image](https://github.com/ALANZION/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145743064/9b64ca4d-1ef8-41f1-9854-068066e93197)
+![image](https://github.com/ALANZION/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145743064/12643e2a-37d2-4bd5-91b7-13d928c175cd)
+![image](https://github.com/ALANZION/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145743064/f3cdcd34-3bbe-4f09-b3b2-ca1b53a53ff8)
+![image](https://github.com/ALANZION/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145743064/cbf11abc-938f-445f-aff1-a5c1a51ffabd)
+
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
